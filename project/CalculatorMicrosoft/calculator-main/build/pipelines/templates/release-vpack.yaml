@@ -1,0 +1,41 @@
+# This template contains a job to create a VPack. The VPack is used to preinstall the app in a
+# Windows OS build.
+
+jobs:
+- job: ReleaseVPack
+  dependsOn: Package
+  variables:
+    skipComponentGovernanceDetection: true
+  templateContext:
+    outputs:
+    - output: pipelineArtifact
+      displayName: Publish vpack\app artifact with vpack manifest
+      targetPath: $(XES_VPACKMANIFESTDIRECTORY)\$(XES_VPACKMANIFESTNAME)
+      artifactName: vpackManifest
+      sbomEnabled: false
+
+  steps:
+  - checkout: none
+
+  - download: current
+    displayName: Download msixBundleSigned artifact
+    artifact: msixBundleSigned
+
+  - task: CopyFiles@2
+    displayName: Copy signed MsixBundle to vpack staging folder
+    inputs:
+      sourceFolder: $(Pipeline.Workspace)\msixBundleSigned
+      contents: Microsoft.WindowsCalculator_8wekyb3d8bbwe.msixbundle
+      targetFolder: $(Pipeline.Workspace)\vpack\msixBundle
+
+  - task: PkgESVPack@12
+    displayName: Create and push vpack for app
+    env:
+      SYSTEM_ACCESSTOKEN: $(System.AccessToken)
+    inputs:
+      sourceDirectory: $(Pipeline.Workspace)\vpack\msixBundle
+      description: VPack for the Calculator Application
+      pushPkgName: calculator.app
+      version: $(versionMajor).$(versionMinor).$(versionBuild)
+      owner: paxeeapps
+      provData: true
