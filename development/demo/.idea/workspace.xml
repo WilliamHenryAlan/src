@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fbc5e45-7470-45e2-a089-880a1d5f2c16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../temp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/.idea/py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/demo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../temp/demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp/demo/demo.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp/demo/demo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp/demo/demo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp/demo/demo.xcodeproj/project.xcworkspace/xcuserdata/willian.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp/demo/demo.xcodeproj/xcuserdata/willian.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cpp/demo/demo/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/1.twoSum.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/1.twoSum.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/17.letterCombination.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/17.letterCombination.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/209.minSubArryLen.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/209.minSubArryLen.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/3.lengthOfLongestSubstring.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/3.lengthOfLongestSubstring.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/713.numSubarrayLessThanK.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/713.numSubarrayLessThanK.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/77.combine.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/77.combine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/9.isPalindrome.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/9.isPalindrome.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang/task.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/101.isSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/../101.isSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/11.maxArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/1.twoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/1.twoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/100.isSameTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/100.isSameTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/101.isSymmetric.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/101.isSymmetric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/104.maxDepth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/104.maxDepth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/11.maxArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/11.maxArea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/110.isBalanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/110.isBalanced.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/146LRUCache.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/146LRUCache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/15.threeSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/15.threeSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/167.twoSumII.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/167.twoSumII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/17.letterCombination.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/17.letterCombination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/199.rightSide.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/199.rightSide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/226.invertTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/226.invertTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/344.reverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/344.reverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/42.trap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/42.trap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/77.combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/77.combine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../py/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../temp/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/Array.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/Backtracking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/DynamicProgramming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/HashTable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/LearnMarkdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/LinkedList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/MonotoneStack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/Queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/Stack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/Tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tutorial/image/1614646493-EriDmE-304.001.jpeg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cwAOzB3mN8g7Ni2TC6fba2NwbI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "/Users/willian/Desktop/src/develop/demo/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fbc5e45-7470-45e2-a089-880a1d5f2c16" name="Changes" comment="" />
+      <created>1709012247342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709012247342</updated>
+    </task>
+    <servers />
+  </component>
+</project>
