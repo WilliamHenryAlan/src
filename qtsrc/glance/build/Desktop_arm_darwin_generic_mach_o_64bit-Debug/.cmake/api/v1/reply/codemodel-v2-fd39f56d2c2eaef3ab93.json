@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dac032f645edf67a2fb3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "glance",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "glance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glance-Debug-19bd4409155c2e7046e9.json",
+					"name" : "glance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glance_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glance_autogen-Debug-c50c4dd18cb52791345e.json",
+					"name" : "glance_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glance_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glance_autogen_timestamp_deps-Debug-cd82d1204868568fcaf7.json",
+					"name" : "glance_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/willian/Desktop/src/qtsrc/glance/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/willian/Desktop/src/qtsrc/glance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

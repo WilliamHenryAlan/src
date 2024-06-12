@@ -1,0 +1,13 @@
+# ninja log v5
+1	178	1718087816748364089	calculator_autogen/timestamp	5085b9e5a22f14e7
+1	178	1718087816748364089	calculator_autogen/mocs_compilation.cpp	5085b9e5a22f14e7
+1	178	1718087816748364089	/Users/willian/Desktop/src/qtsrc/calculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/calculator_autogen/timestamp	5085b9e5a22f14e7
+1	178	1718087816748364089	/Users/willian/Desktop/src/qtsrc/calculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/calculator_autogen/mocs_compilation.cpp	5085b9e5a22f14e7
+178	944	1718087817515655101	CMakeFiles/calculator.dir/main.cpp.o	a8256d22fb26b03f
+178	946	1718087817515475350	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o	87e0d0a6d0454dac
+7	32	1718087836340977059	calculator_autogen/timestamp	5085b9e5a22f14e7
+7	32	1718087836340977059	calculator_autogen/mocs_compilation.cpp	5085b9e5a22f14e7
+7	32	1718087836340977059	/Users/willian/Desktop/src/qtsrc/calculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/calculator_autogen/timestamp	5085b9e5a22f14e7
+7	32	1718087836340977059	/Users/willian/Desktop/src/qtsrc/calculator/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/calculator_autogen/mocs_compilation.cpp	5085b9e5a22f14e7
+33	1150	1718087837452149573	CMakeFiles/calculator.dir/widget.cpp.o	e0cd1c0ef8152062
+1150	1413	1718087837714884466	calculator.app/Contents/MacOS/calculator	6492be4e5abb7cd9
